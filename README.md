@@ -12,7 +12,7 @@ SELECT THE FILES TO BACKUP and Right click on it and select "BackUpfile" Option
 
 
 
-![Screenshot (101)](https://user-images.githubusercontent.com/45729256/77108052-97c95d80-6a47-11ea-977e-c73e93bbbe61.png)
+![Screenshot (100)](https://user-images.githubusercontent.com/45729256/77108050-9730c700-6a47-11ea-842d-2db302867d11.png)
 
 STEP2:
 
@@ -20,7 +20,7 @@ Press Enter to Continue to make sure that you are copying all these files
 
 
 
-![Screenshot (100)](https://user-images.githubusercontent.com/45729256/77108050-9730c700-6a47-11ea-842d-2db302867d11.png)
+![Screenshot (101)](https://user-images.githubusercontent.com/45729256/77108052-97c95d80-6a47-11ea-977e-c73e93bbbe61.png)
 
 Step3:
 
