@@ -8,11 +8,11 @@ Enjoy!!!
 
 STEP1:
 
-SELECT THE FILES TO BACKUP and Right click on it
+SELECT THE FILES TO BACKUP and Right click on it and select "BackUpfile" Option
 
 
 
-![Screenshot (102)](https://user-images.githubusercontent.com/45729256/77108046-94ce6d00-6a47-11ea-8e8a-a2923e31ed72.png)
+![Screenshot (101)](https://user-images.githubusercontent.com/45729256/77108052-97c95d80-6a47-11ea-977e-c73e93bbbe61.png)
 
 STEP2:
 
@@ -28,4 +28,5 @@ Copied Files are in BackUpStorage of D: from E: drive
 
 
 
-![Screenshot (101)](https://user-images.githubusercontent.com/45729256/77108052-97c95d80-6a47-11ea-977e-c73e93bbbe61.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/45729256/77108046-94ce6d00-6a47-11ea-8e8a-a2923e31ed72.png)
+
